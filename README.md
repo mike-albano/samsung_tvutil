@@ -1,5 +1,8 @@
 Uses https://github.com/xchwarze/samsung-tv-ws-api.
 
+Simple utility which checks if a samsung TV is on during certain hours, and
+turns it off if it is.
+
 # Before Starting
 1) Enable remote access from the network settings on your TV.
 
